@@ -1,0 +1,100 @@
+{
+	"name": "Google Analytics Integration",
+	"description": "This plugin lets site owners easily add Google Analytics code to their sites.",
+	"license": "GPL-3.0",
+	"author": "TidyCustoms",
+	"version": "1.0.1",
+	"scope": "site",
+	"minimumPubliiVersion": "0.39.0",
+	"usePluginSettingsView": false,
+    "messageInOptions": {
+        "type": "info",
+        "text": "Please remember that this plugin does not output the analytics code in preview mode by default. You can change this behavior using the 'Output code in Preview Mode' option."
+    },
+    "config": [
+    	{
+            "name": "codeVariant",
+            "label": "Code variant",
+            "group": "Configuration",
+            "type": "radio",
+            "value": "gtag",
+            "options": [
+                {
+                    "label": "gtag.js",
+                    "value": "gtag"
+                },
+                {
+                    "label": "GTM",
+                    "value": "gtm"
+                }
+            ]
+        },
+        {
+            "name": "trackingID",
+            "label": "Tracking ID",
+            "group": "Configuration",
+            "value": "",
+            "type": "text"
+        },
+        {
+            "name": "anonymizeIP",
+            "label": "Enable IP anonymization",
+            "group": "Configuration",
+            "type": "checkbox",
+            "value": false,
+            "note": "Enables IP anonymization for data sent to Google Analytics. For more details please visit the <a href='https://support.google.com/analytics/answer/2763052/' target='_blank' rel='nofollow noopener noreferrer'>Google Support </a> website.",
+            "dependencies": [
+                {
+                    "field": "codeVariant",
+                    "value": "gtag"
+                }
+            ]
+        },
+        {
+            "name": "customCode",
+            "label": "Custom code to add to the script",
+            "group": "Configuration",
+            "note":  "JS code entered in this field will be added to the embed script",
+            "rows": 3,
+            "type": "textarea",
+            "value": "",
+            "dependencies": [
+                {
+                    "field": "codeVariant",
+                    "value": "gtag"
+                }
+            ]
+        },
+        {
+            "name": "previewMode",
+            "label": "Output code in Preview Mode",
+            "note": "Enable this option only when checking or debugging analytics code generation. Leaving this option enabled can lead to false tracking data being generated when browsing your website in preview mode.",
+            "group": "Configuration",
+            "type": "checkbox",
+            "value": false
+        },
+        {
+            "name": "cookieBannerIntegration",
+            "label": "",
+            "note": "Enabling this option will integrate this plugin with Publii's native Cookie Banner, allowing visitors to consent to cookies installed by Google Analytics/GTM. This option is recommended if you want to ensure compliance with privacy regulations. Please note that if this option is enabled and you are using the GTM code variant, then the GTM noscript tag will not be injected into your website.",
+            "group": "Cookie Banner integration",
+            "type": "checkbox",
+            "value": false
+        },
+        {
+            "name": "cookieBannerGroup",
+            "label": "Cookie Group ID",
+            "note": "Please specify which Cookie Group ID of the Cookie Banner you wish to associate with the Google Analytics/GTM script. If it does not exists, add a new Cookie Group Name with the Cookie Group ID specified above in the Privacy Settings section of the Site Settings. For more details please visit our  <a href='https://getpublii.com/docs/gdpr-cookie-banner-configuration.html#cookie-groups' target='_blank' rel='nofollow noopener noreferrer'> documentation.</a>",
+            "group": "Cookie Banner integration",
+            "placeholder": "analytics",
+            "type": "text",
+            "value": "",
+            "dependencies": [
+                {
+                    "field": "cookieBannerIntegration",
+                    "value": true
+                }
+            ]
+        }
+    ]
+}

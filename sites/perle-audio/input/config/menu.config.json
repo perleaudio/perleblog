@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Main",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1702527835066,
+                "label": "About",
+                "title": "",
+                "type": "post",
+                "target": "_blank",
+                "rel": "",
+                "link": 3,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1702528127482,
+                "label": "Terms and Conditions",
+                "title": "",
+                "type": "post",
+                "target": "_blank",
+                "rel": "",
+                "link": 5,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            }
+        ],
+        "maxLevels": "-1"
+    }
+]

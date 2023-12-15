@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:////Users/levi/Documents/Publii/sites/perle-audio/preview/sitemap.xml

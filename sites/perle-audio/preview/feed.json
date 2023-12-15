@@ -1,0 +1,59 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Perle Audio",
+    "description": "",
+    "home_page_url": "file:////Users/levi/Documents/Publii/sites/perle-audio/preview",
+    "feed_url": "file:////Users/levi/Documents/Publii/sites/perle-audio/preview/feed.json",
+    "user_comment": "",
+    "icon": "file:///Users/levi/Documents/Publii/sites/perle-audio/preview/media/website/PERLE_AUDIO_4-transformed.png",
+    "author": {
+        "name": "Levi Perry"
+    },
+    "items": [
+        {
+            "id": "file:////Users/levi/Documents/Publii/sites/perle-audio/preview/work-in-progress-2/index.html",
+            "url": "file:////Users/levi/Documents/Publii/sites/perle-audio/preview/work-in-progress-2/index.html",
+            "title": "Work in Progress",
+            "summary": "This blog is a work in progress and developed by myself, Levi Perry. I want to have a place where I can share my journey about voiceover and my passion for audio. Here’s what you can expect over the coming months. These are subject to&hellip;",
+            "content_html": "<p>This blog is a work in progress and developed by myself, Levi Perry.  I want to have a place where I can share my journey about voiceover and my passion for audio.  Here’s what you can expect over the coming months.  These are subject to change, so they aren’t set in stone.</p>\n<h2 id=\"in-depth-audio-topics\">In-Depth Audio Topics</h2>\n<p><strong>Acoustics</strong></p>\n<pre><code>* Definition and importance of acoustics\n* Properties of sound waves (amplitude, frequency, wavelength)\n* How sound travels and interacts with different materials (absorption, reflection, refraction)\n* Different types of acoustic environments (rooms, studios, concert halls)\n* Acoustic measurement and analysis techniques\n* Noise control and soundproofing principles\n* Applications of acoustics in various fields (architecture, engineering, music production)\n* Interactive tools: Acoustic calculators, sound propagation simulations\n* Related topics: Audio engineering, psychoacoustics, architectural acoustics\n</code></pre>\n<p><strong>Sound Engineering</strong></p>\n<pre><code>* Definition and roles of a sound engineer\n* The signal chain: microphones, preamps, audio interfaces, mixers, processors, amplifiers, speakers\n* Recording techniques for different instruments and vocals (miking techniques, placement, room acoustics)\n* Mixing techniques: balancing levels, panning, EQ, compression, effects\n* Mastering techniques: loudness normalization, equalization, limiting, dithering\n* Live sound reinforcement: sound system setup, mixing for live performances\n* Audio for film and video games: creating soundtracks, sound design, foley\n* Broadcast audio: recording and mixing for radio and television\n* Career paths in sound engineering\n* Downloadable resources: EQ cheat sheets, mixing templates, microphone comparison charts\n* Related topics: Audio production, music theory, audio equipment\n</code></pre>\n<p><strong>Music Theory</strong></p>\n<pre><code>* Basic music notation: notes, staff, clefs, time signatures\n* Intervals and chords: building blocks of harmony\n* Scales and keys: understanding the structure of music\n* Rhythm and meter: understanding the pulse and flow of music\n* Melody and harmony: creating and analyzing musical lines\n* Ear training: developing your musical ear through exercises and drills\n* Music composition and songwriting: using music theory for creative expression\n* Interactive tools: Music notation software, ear training games\n* Related topics: Music production, audio engineering, performance\n</code></pre>\n<p><strong>Audio Equipment</strong></p>\n<pre><code>* Types of microphones: dynamic, condenser, ribbon, contact\n* Choosing the right microphone for different applications\n* Headphones: understanding types, technologies, and sound characteristics\n* Speakers: choosing speakers for different purposes (studio monitoring, live sound, home audio)\n* Audio interfaces: connecting your audio gear to your computer\n* Digital audio workstations (DAWs): software for recording, editing, and mixing audio\n* Audio effects processors: using EQ, compression, reverb, and other effects\n* Audio cables and connectors: choosing the right cables for your setup\n* Audio equipment maintenance and troubleshooting\n* Reviews and comparisons of popular audio equipment\n* Building your own audio gear: DIY projects and resources\n* Related topics: Audio engineering, music production, sound design\n    \n    \n    \n</code></pre>\n",
+            "image": "file:////Users/levi/Documents/Publii/sites/perle-audio/preview/media/posts/7/pexels-hendrik-b-744318.jpg",
+            "author": {
+                "name": "Levi Perry"
+            },
+            "tags": [
+                   "audio topics"
+            ],
+            "date_published": "2023-12-13T22:38:45-06:00",
+            "date_modified": "2023-12-13T22:39:55-06:00"
+        },
+        {
+            "id": "file:////Users/levi/Documents/Publii/sites/perle-audio/preview/about/index.html",
+            "url": "file:////Users/levi/Documents/Publii/sites/perle-audio/preview/about/index.html",
+            "title": "About",
+            "summary": "About skjdvndjvnsdvkl",
+            "content_html": "<p>About skjdvndjvnsdvkl</p>",
+            "author": {
+                "name": "Levi Perry"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-12-13T22:23:06-06:00",
+            "date_modified": "2023-12-13T22:23:06-06:00"
+        },
+        {
+            "id": "file:////Users/levi/Documents/Publii/sites/perle-audio/preview/the-birth-of-perle-audio/index.html",
+            "url": "file:////Users/levi/Documents/Publii/sites/perle-audio/preview/the-birth-of-perle-audio/index.html",
+            "title": "The Birth of Perle Audio",
+            "summary": "Starting a blog about audio is something I've thought up recently. I've gone from broad ideas down to really dialed down topics. Not to mention, several dozen frameworks on which to build this blog. Then I thought to myself, people want to read about not&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">Starting a blog about audio is something I've thought up recently.  I've gone from broad ideas down to really dialed down topics.  Not to mention, several dozen frameworks on which to build this blog.  Then I thought to myself, people want to read about not just audio (the true audiophiles) but they want to know the inspiration behind it. </span></p>\n<p> </p>\n<p><span style=\"font-weight: 400;\">Several years ago, when I was living in Maine, I had a small two bedroom apartment on the second and third floor.  The apartment had a train depot behind it; I remember hearing the trains go by frequently.  It also had a cannabis shop next door.  In those few months I lived there, I realized I want to be a voiceover artist.   </span></p>\n<p> </p>\n<p><span style=\"font-weight: 400;\">I jumped in and bought an XLR recording kit from Amazon and truthfully I had no idea what I was doing.  I didn't know a thing about audio but the allure of voiceover kept me interested.  I joined an online website that I could submit auditions to and I enjoyed it immensely.  I even got my first gig (unpaid) narrating a book called The Book-Eating Magician.  I was very proud of myself because the guy I was doing the voiceover for was actually blind.  He wanted to hear the book told because he enjoyed the story and because I was able to help him gain just a little bit of joy…that made this journey worth it.</span></p>\n<p> </p>\n<p><span style=\"font-weight: 400;\">That was back in 2019.  Now, I've decided I want to create a community of people who love audio as much as I do.  I'm not claiming to be an expert in every aspect of audio; I am a learner.  I'm curious.  I believe that audio in the form of sound waves has a special way of connecting to our soul.  It is in every one of us.  </span></p>\n<p> </p>\n<p><span style=\"font-weight: 400;\">Perle Audio is pronounced “pearl” and the spelling is a combination of letters from my first and last name.  Perle Audio stands for refinement of sound.  Of voice.  I want this to be a household name one day.  I don't know where it will take me but I have big dreams.  </span></p>\n<p> </p>\n<p><span style=\"font-weight: 400;\">Perle Audio is my legacy….and you are a part of it.  </span></p>",
+            "author": {
+                "name": "Levi Perry"
+            },
+            "tags": [
+                   "company news"
+            ],
+            "date_published": "2023-12-13T21:57:33-06:00",
+            "date_modified": "2023-12-13T22:26:20-06:00"
+        }
+    ]
+}
